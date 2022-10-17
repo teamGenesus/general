@@ -1,4 +1,4 @@
-# Current Projects 
+# Ongoing Projects 
 ## Self projects
 ### Thanopod
  * A two-wheeled balancing robot that can move around in its environment 
@@ -8,6 +8,9 @@
  * Inspired by the robot Handle by Boston dynamics and the videos made by the youtuber 74Samy
 
 ### High-powered RC car
+ * A remote controlled 4 wheel drive car, powered by a bldc, that can reach high speeds around 60 kmph
+ * Has suspension, brakes, driveshaft, differential gears
+ * Chose this project as we'll learn about various manufacturing processes, robust mechanical construction, geartrain etc. and most importantly it's awesome!!!
 
 ## Competitions
 ### Line following and maze solving bot (Meshmerize, Techfest IITB)
