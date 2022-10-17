@@ -20,5 +20,9 @@
 
 
 ### Remote controlled gripper robot (Cosmoclench, Techfest IITB)
+* A remote controlled bot that has a gripper to lift thermocol boxes
+* Needs to navigate rough terrain and obstacles without dropping the box
 
 ### RC boat (Rowboatics, Techfest IITB)
+* Plan to make a rudderless remote controlled boat
+* Will be powered by 2 bldcs that allow for speed and differential steering
