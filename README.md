@@ -14,7 +14,7 @@
 * A line following bot which uses infrared sensors to detect a line and follow it
 * Uses PID control to follow the line 
 * Uses a Raspberry Pi Pico to make decisions for turning at junctions and to remember the maze and to minimize the path
-* 
+
 
 ### Remote controlled gripper robot (Cosmoclench, Techfest IITB)
 
